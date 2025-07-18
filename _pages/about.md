@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Clinton Nguyen and I am studying Statistics and Applied Math at UC Berkeley. My research interests are currently in machine learning, theory of mind and decision science.
+My name is Clinton Nguyen and I am an undergraduate studying Statistics and Applied Math at UC Berkeley. My research interests are currently in machine learning, theory of mind and decision science.
 
 At Berkeley, I am a project manager for the club [Code for Good](https://codeforgoodberkeley.github.io/) and a research assistant for the [CogNac Lab](https://ivrylab.berkeley.edu/).
 
