@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Clinton Nguyen and I am an undergraduate studying Statistics and Applied Math at UC Berkeley. My research interests are currently in machine learning, theory of mind and decision theory.
+My name is Clinton Nguyen and I am an undergraduate studying Statistics and Applied Math at UC Berkeley. My research interests are currently in reinforcement learning, theory of mind and decision theory.
 
-At Berkeley, I am a project manager for the club [Code for Good](https://codeforgoodberkeley.github.io/) and research assistant for the [CogNac Lab](https://ivrylab.berkeley.edu/) and [BOBALAB](https://parksinchaisri.github.io/#bobalab).
+At Berkeley, I am a research assistant for the [CogNac Lab](https://ivrylab.berkeley.edu/) and [BOBALAB](https://parksinchaisri.github.io/#bobalab).
 
-Outside of school, I like to whistle and eat at buffets.
+Outside of school, I like to whistle, eat at buffets and annoy my brother.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
